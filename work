@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Work - Suyeon Yu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="work.html">Work</a>
+      <a href="#blog">Blog</a>
+      <a href="#about">About</a>
+    </div>
+  </nav>
+
+  <header class="header">
+    <h1>Work</h1>
+    <p>작업물 페이지 (준비 중)</p>
+  </header>
+</body>
+</html>
 
